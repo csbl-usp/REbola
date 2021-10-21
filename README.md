@@ -10,7 +10,7 @@ R package for lncRNA analysis, part of Ebola Project.
 
 **Affiliations:**
 - Computational Systems Biology Lab [CSBL](https://github.com/csbl-usp)
-- Iza?
+- Laboratory of Genetics Biochemistry - UFMG
 - What else?
 
 ## Projects
