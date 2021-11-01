@@ -2,11 +2,12 @@
 R package for lncRNA analysis, part of Ebola Project.
 
 **Collaborators:**
-- [Thomaz](https://github.com/luxeredias)
+- [Fernando Marcon](https://github.com/FernandoMarcon)
 - [Isabelle Moscardini](https://github.com/IsaMoscardini)
+- [Izabela Conceição](https://github.com/iza-mcac)
 - [Patricia Gonzalez-Dias](https://github.com/gonzalezpc)
 - [Thiago Hirata](https://github.com/thiagodch)
-- [Izabela Conceição](https://github.com/iza-mcac)
+- [Thomaz Dias](https://github.com/luxeredias)
 
 **Affiliations:**
 - Computational Systems Biology Lab [CSBL](https://github.com/csbl-usp)
